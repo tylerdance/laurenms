@@ -1,1 +1,1 @@
-# Sugiwon
+# Lauren Miralles-Snow
