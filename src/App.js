@@ -5,7 +5,7 @@ import { BrowserRouter, Route } from 'react-router-dom';
 // import Nav from './components/Nav';
 // import Contact from './components/Contact';
 import Home from './components/Home';
-// import Discography from './components/Discography';
+import rootrot from './components/rootrot';
 // import Footer from './components/Footer';
 // import FallingCredits from './components/FallingCredits';
 // import Embed from 'react-music-embed'
@@ -18,7 +18,7 @@ function App() {
         {/* <Nav /> */}
         <Route exact path='/' component={ Home } />
         {/* <Route exact path='/contact' component={ Contact } /> */}
-        {/* <Route exact path='/discography' component={ Discography } /> */}
+        <Route exact path='/rootrot' component={ rootrot } />
         {/* <Route exact path='/fallingcredits' component={ FallingCredits } /> */}
 
 

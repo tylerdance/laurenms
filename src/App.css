@@ -1,0 +1,9 @@
+.pic-square {
+  max-width: 450px;
+}
+
+.rootrot-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
