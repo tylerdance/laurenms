@@ -11,6 +11,12 @@
 .home-pics {
   max-width: 600px;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   padding-bottom: 80px;
+}
+
+.home-pics-div {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
 }
