@@ -7,3 +7,10 @@
   flex-direction: row;
   flex-wrap: wrap;
 }
+
+.home-pics {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 80px;
+}
