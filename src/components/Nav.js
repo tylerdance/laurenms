@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 function Nav () {
     return (
         <div id="nav-div">
-            <h1 ><Link id="sugiwon" to="/">Sugiwon</Link></h1>
+            <h1 ><Link id="" to="/"></Link></h1>
             {/* <br />
             <br /> */}
 

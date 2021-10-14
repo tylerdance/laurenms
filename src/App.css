@@ -1,8 +1,19 @@
+body {
+  background-color: rgb(255, 254, 250);
+}
+
 .pic-square {
   max-width: 450px;
+  padding: 5px;
 }
 
 .rootrot-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.selfpres-div {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -12,7 +23,8 @@
   max-width: 600px;
   display: flex;
   justify-content: center;
-  padding-bottom: 80px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .home-pics-div {
