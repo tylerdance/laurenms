@@ -1,5 +1,12 @@
 body {
-  background-color: rgb(255, 254, 250);
+  background-color: rgb(255, 252, 247);
+}
+
+#name {
+  padding: 5px;
+  padding-left: 8px;
+  position: fixed;
+  top: 0;
 }
 
 .pic-square {

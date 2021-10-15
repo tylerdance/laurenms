@@ -4,7 +4,7 @@ function Home () {
     return (
         <div>
             <div>
-                <h4>Lauren Miralles-Snow</h4>
+                <h5 id="name">laurenmirallessnow</h5>
             </div>
             <div className="home-pics-div">
                 <div>
