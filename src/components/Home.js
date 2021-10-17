@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import ReactPlayer from "react-player"
 
 function Home () {
     return (
@@ -10,6 +11,19 @@ function Home () {
                 <div>
                     <div><Link id="selfpres" to="/selfpres"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723771/lms%20selfpres/selfpres12_gl9yqi.jpg" alt="" /></Link></div>
                     <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723806/lms%20sounds%20like/soundslike18_vvdghe.jpg" alt="" /></div>
+
+                <div id="spliffbreak-vid-div">
+                    <div className='player-wrapper'>
+                        <ReactPlayer
+                        className='react-player'
+                        url='https://www.youtube.com/watch?v=UMD1PTFbH4g&ab_channel=ChrisLorenzo'
+                        width='100%'
+                        height='100%'
+                        controls={true}
+                        />
+                    </div>
+                </div>
+
                     <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723613/lms%20rubber%20city%20hall/rubbercityhall2_g6yh4k.jpg" alt="" /></div>
                     <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723581/lms%20misc/misc8_hrclnj.jpg" alt="" /></div>
                     <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723654/lms%20rubber%20w%20friends/rubberwfriends13_czh2oh.jpg" alt="" /></div>

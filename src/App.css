@@ -10,8 +10,34 @@ body {
 }
 
 .pic-square {
-  max-width: 450px;
+  width: 33.333%;
   padding: 5px;
+  object-fit: cover;
+}
+
+.selfpres-div {
+  display: flex;
+  flex-wrap: wrap;
+  object-fit: cover;
+}
+
+.player-wrapper {
+  position: relative;
+  /* Player ratio: 100 / (1280 / 720) */
+  padding-top: 56.25%;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#spliffbreak-vid-div {
+  width: 600px;
+  padding: 50px;
 }
 
 .rootrot-div {
@@ -30,8 +56,8 @@ body {
   max-width: 600px;
   display: flex;
   justify-content: center;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 .home-pics-div {
