@@ -10,7 +10,8 @@ function Home () {
             <div className="home-pics-div">
                 <div>
                     <div><Link id="selfpres" to="/selfpres"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723771/lms%20selfpres/selfpres12_gl9yqi.jpg" alt="" /></Link></div>
-                    <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723806/lms%20sounds%20like/soundslike18_vvdghe.jpg" alt="" /></div>
+                    <div><Link id="soundslike" to="/soundslike"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723806/lms%20sounds%20like/soundslike18_vvdghe.jpg" alt="" /></Link></div>
+                    {/* <div><img className="home-pics" src="" alt="" /></div> */}
 
                 <div id="spliffbreak-vid-div">
                     <div className='player-wrapper'>

@@ -1,7 +1,7 @@
 function SelfPres () {
     return (
         <div>
-            <div >
+            <div>
                 <div className="selfpres-div">        
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723770/lms%20selfpres/selfpres1_skhgdb.jpg" alt="" />
                 
@@ -42,7 +42,6 @@ function SelfPres () {
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723773/lms%20selfpres/selfpres19_sy6v83.jpg" alt="" />
                 </div>
             </div>
-
         </div>
     )
 }

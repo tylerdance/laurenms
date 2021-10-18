@@ -21,6 +21,12 @@ body {
   object-fit: cover;
 }
 
+.sounds-like-div {
+  display: flex;
+  flex-wrap: wrap;
+  object-fit: cover;
+}
+
 .player-wrapper {
   position: relative;
   /* Player ratio: 100 / (1280 / 720) */
