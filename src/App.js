@@ -8,6 +8,7 @@ import Home from './components/Home';
 import rootrot from './components/rootrot';
 import SelfPres from './components/SelfPres';
 import SoundsLike from './components/SoundsLike';
+import RubberCityHall from './components/RubberCityHall';
 // import Footer from './components/Footer';
 // import FallingCredits from './components/FallingCredits';
 // import Embed from 'react-music-embed'
@@ -23,6 +24,7 @@ function App() {
         <Route exact path='/rootrot' component={ rootrot } />
         <Route exact path='/selfpres' component={ SelfPres } />
         <Route exact path='/soundslike' component={ SoundsLike } />
+        <Route exact path='/rubbercityhall' component={ RubberCityHall } />
         {/* <Route exact path='/fallingcredits' component={ FallingCredits } /> */}
 
 

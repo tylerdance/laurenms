@@ -29,7 +29,6 @@ function SoundsLike () {
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723806/lms%20sounds%20like/soundslike24_rmjnyx.jpg" alt="" />
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723807/lms%20sounds%20like/soundslike25_cmowya.jpg" alt="" />
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723807/lms%20sounds%20like/soundslike26_sgddp2.jpg" alt="" />
-                    <img className="pic-square" src="" alt="" />
                 </div>
             </div>
         </div>
