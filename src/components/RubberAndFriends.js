@@ -17,9 +17,6 @@ function RubberAndFriends () {
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723654/lms%20rubber%20w%20friends/rubberwfriends12_dfkvjm.jpg" alt="" />
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723654/lms%20rubber%20w%20friends/rubberwfriends13_czh2oh.jpg" alt="" />
                     <img className="pic-square" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723654/lms%20rubber%20w%20friends/rubberwfriends14_pufncq.jpg" alt="" />
-                    <img className="pic-square" src="" alt="" />
-                    <img className="pic-square" src="" alt="" />
-                    <img className="pic-square" src="" alt="" />
                 </div>
             </div>
         </div>
