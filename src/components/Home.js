@@ -30,7 +30,8 @@ function Home () {
                     <div><Link id="rubberwcl" to="/rubberwcl"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723712/lms%20rubber%20wcl/rubberwcl1_j1k0de.jpg" alt="" /></Link></div>
                     <div><Link id="fam" to="/fam"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723474/lms%20fam/fam3_shmux3.jpg" alt="" /></Link></div>
                     <div><Link id="livestream" to="/livestream"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723545/lms%20livestream/livestream4_gnllli.jpg" alt="" /></Link></div>
-                    <div><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723683/rubber%20wawa/rubberwawa15_k9cnrh.jpg" alt="" /></div>
+                    <div><Link id="rubberwawa" to="/rubberwawa"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723683/rubber%20wawa/rubberwawa15_k9cnrh.jpg" alt="" /></Link></div>
+                    {/* <div><img className="home-pics" src="" alt="" /></div> */}
                     <div><Link id="rootrot" to="/rootrot"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633292090/lms%20root%20rot/rootrot11_a1pydc.jpg" alt="" /></Link></div>
                 </div>
             </div>

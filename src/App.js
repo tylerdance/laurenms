@@ -12,6 +12,7 @@ import RubberAndFriends from './components/RubberAndFriends';
 import RubberWCL from './components/RubberWCL';
 import Fam from './components/Fam';
 import Livestream from './components/Livestream';
+import RubberWawa from './components/RubberWawa';
 // import Footer from './components/Footer';
 // import FallingCredits from './components/FallingCredits';
 // import Embed from 'react-music-embed'
@@ -33,6 +34,7 @@ function App() {
         <Route exact path='/RubberWCL' component={ RubberWCL } />
         <Route exact path='/Fam' component={ Fam } />
         <Route exact path='/Livestream' component={ Livestream } />
+        <Route exact path='/RubberWawa' component={ RubberWawa } />
 
       </BrowserRouter>
 
