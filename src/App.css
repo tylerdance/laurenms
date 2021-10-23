@@ -15,6 +15,10 @@ body {
   object-fit: cover;
 }
 
+/* .pic-square:hover {
+  opacity: 1.0;
+} */
+
 .selfpres-div {
   display: flex;
   flex-wrap: wrap;
@@ -64,6 +68,10 @@ body {
   justify-content: center;
   padding-top: 70px;
   padding-bottom: 70px;
+}
+
+.home-pics:hover {
+  opacity: 0.5;
 }
 
 .home-pics-div {
