@@ -9,7 +9,11 @@ function Home () {
             </div>
             <div className="home-pics-div">
                 <div>
-                    <div><Link id="selfpres" to="/selfpres"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723771/lms%20selfpres/selfpres12_gl9yqi.jpg" alt="" /></Link></div>
+                    <div className="home-pics-subdiv">
+                        <Link id="selfpres" to="/selfpres"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723771/lms%20selfpres/selfpres12_gl9yqi.jpg" alt="" /></Link>
+                        <Link id="selfpres" to="/selfpres"><p className="home-text">Major Van Winkle - Selfish Presley EP</p></Link>
+                    </div>
+                    
                     <div><Link id="soundslike" to="/soundslike"><img className="home-pics" src="https://res.cloudinary.com/df3zbbtc1/image/upload/v1633723806/lms%20sounds%20like/soundslike18_vvdghe.jpg" alt="" /></Link></div>
 
                     <div id="spliffbreak-vid-div">
